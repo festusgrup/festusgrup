@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Festus Masope-Crabbe
 - 👀 I’m interested in learning new things and linking up with people of great knowledge
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on someprojects involving JS
+- 🌱 I’m currently learning JS and Python,any advice is warmly welcome
+- 💞️ I’m looking to collaborate on someprojects involving JS and PY
 - 📫 How to reach me festusgrup@gmail.com or +4917684100704
 
 <!---
