@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Festus Masope-Crabbe
+- 👋 Hi, I’m Festus Masope-Crabbe,I'm a recent graduate in Computer Science with a specialization in programming and networking. I also passed my CCNA exams preparing to write CCNP
 - 👀 I’m interested in learning new things and linking up with people of great knowledge
 - 🌱 I’m currently learning Python,any advice is warmly welcome
-- 💞️ I’m looking to collaborate on someprojects involving JS and PY
+- 💞️ I’m looking to collaborate on some projects involving JS and PY
 - 📫 How to reach me festusgrup@gmail.com or +4917684100704
 
 <!---
